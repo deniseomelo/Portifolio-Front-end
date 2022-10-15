@@ -1,0 +1,37 @@
+* {
+    box-sizing : content-box;
+    border-bottom-left-radius: 0%;
+   
+
+  }
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    background: rgb(209, 207, 204);
+    text-align: center;
+  }
+  .header {
+    background: rgb(86, 119, 3);
+    font-size: small;
+    text-align: left;
+  }
+  .column {   
+    float: left;
+    width: 100%;
+  }
+  .card {
+    background-color: whitesmoke;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  .row:after {
+    content: " ";
+    display: table;
+    clear: both;
+  }
+  footer {
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: small;
+    font-style: italic;
+  }
