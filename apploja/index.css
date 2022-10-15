@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    
+   
+    
+  }
+  header {
+    background: rgb(238, 233, 233);
+    font-size: small;
+    text-align: left;
+    
+    
+
+  }
+  body {
+    
+    font-family: 'Times New Roman', Times, serif;
+    padding: 30px;
+    background: rgb(207, 201, 201);
+    text-align: center;
+    border-bottom: 20pt;
+  }
+  footer {
+    color: rgb(237, 11, 214);
+    text-align: center;
+    font-size: smaller ;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  }
